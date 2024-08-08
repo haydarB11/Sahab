@@ -1,0 +1,12 @@
+.bg-linear{
+    background: linear-gradient(45deg, #00A651, #89c540);
+  }
+  .btn-linear{
+    background: linear-gradient(45deg, #00A651, #89c540);
+    border:1px solid transparent !important;
+  }
+  .btn-linear:hover{
+    background:white;
+    border:1px solid #00A651 !important;
+    color: #00A651 !important;
+  }
